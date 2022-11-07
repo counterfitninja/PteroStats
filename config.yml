@@ -2,14 +2,15 @@
 # If you need help, join our discord server here: https://discord.gg/zv6maQRah3
 
 # Bot Configuration
-token: 'Put bot token here'
+token: 	'MTAyMTc0ODExMDc4NDk5MTI1Mw.G_HNSd.rHURGVqiB9GUP4noGbMdgtrx3poIkxB-UEPp0s'
+
 bot_status:
     enable: false
     text: 'Hosting Panel'
     type: 'WATCHING' # can be 'WATCHING', 'PLAYING', 'LISTENING', or 'COMPETING'. for 'STREAMING' is not working for now
 
 # Discord Channel and Refresh Time Configuration
-channel: 'Put channel id here'
+channel: '1039139707277283388'
 refresh: 60
 
 # Panel Configuration
